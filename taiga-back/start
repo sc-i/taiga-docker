@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bash /usr/local/taiga/configure
+. /usr/local/taiga/configure
 
 cd /usr/local/taiga/taiga-back/
 
