@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cat > /etc/nginx/upstream.conf <<EOL
 
 upstream taiga-back {
